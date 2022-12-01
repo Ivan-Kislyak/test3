@@ -1,5 +1,4 @@
 Hello Word!
 12345
 Good bye!
-another line from user1
-File from user2
+line from user2
