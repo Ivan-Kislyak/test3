@@ -3,3 +3,4 @@ Hello Word!
 Good bye!
 line from user2
 some new feature
+Line from user1 - lesson about rebase
